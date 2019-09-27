@@ -102,3 +102,23 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# VSCODE
+.vscode/
+.project
+.classpath
+.settings/
+
+
+### Intellij ###
+.idea/
+target/
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
